@@ -54,7 +54,7 @@ function launchBuild(){
 <button onclick="launchBuild()">Launch Build</button>
 
 <div id="gifArea">
-    <h2>Build Running...</h2>
+    <h2>You just got RickRolled</h2>
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajM3azM4cGY3YzRuODN4c3lkeGM3Z3EyZXF3bm0wamlvaDJtMGk2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgcUUCXgC8mEo/giphy.gif">
 </div>
 
