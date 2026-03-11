@@ -12,7 +12,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 
-                git branch: 'main', url: 'https://github.com/Saptarshi-108/Jenkins-Test-Repo-for-DevOps'
+                git branch: 'main',url: 'https://github.com/Saptarshi-108/Jenkins-Test-Repo-for-DevOps'
             }
         }
 
